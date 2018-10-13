@@ -16,6 +16,6 @@ class ViewController: UIViewController {
 
     }
 
-
-}
+    //Cambios
+    var cambios: String!}
 
