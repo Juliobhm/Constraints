@@ -2,8 +2,7 @@
 //  Pagina02.swift
 //  Constraints
 //
-//  Created by Julio Barado Hualde on 11/10/18.
-//  Copyright © 2018 Julio Barado Hualde. All rights reserved.
+
 //
 
 import UIKit
